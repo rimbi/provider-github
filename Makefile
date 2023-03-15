@@ -2,7 +2,7 @@
 # Setup Project
 
 PROJECT_NAME := provider-github
-PROJECT_REPO := github.com/rolos/$(PROJECT_NAME)
+PROJECT_REPO := github.com/rimbi/$(PROJECT_NAME)
 
 export TERRAFORM_VERSION := 1.3.3
 

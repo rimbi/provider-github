@@ -11,7 +11,7 @@ import (
 
 	"github.com/upbound/upjet/pkg/pipeline"
 
-	"github.com/rolos/provider-github/config"
+	"github.com/rimbi/provider-github/config"
 )
 
 func main() {

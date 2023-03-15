@@ -1,4 +1,4 @@
-module github.com/rolos/provider-github
+module github.com/rimbi/provider-github
 
 go 1.19
 

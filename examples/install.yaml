@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: provider-github
 spec:
-  package: rolos/provider-github:v0.1.0
+  package: rimbi/provider-github:v0.1.0

@@ -24,12 +24,12 @@ import (
 	ctrl "sigs.k8s.io/controller-runtime"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	"github.com/rolos/provider-github/apis"
-	"github.com/rolos/provider-github/apis/v1alpha1"
-	"github.com/rolos/provider-github/config"
-	"github.com/rolos/provider-github/internal/clients"
-	"github.com/rolos/provider-github/internal/controller"
-	"github.com/rolos/provider-github/internal/features"
+	"github.com/rimbi/provider-github/apis"
+	"github.com/rimbi/provider-github/apis/v1alpha1"
+	"github.com/rimbi/provider-github/config"
+	"github.com/rimbi/provider-github/internal/clients"
+	"github.com/rimbi/provider-github/internal/controller"
+	"github.com/rimbi/provider-github/internal/features"
 )
 
 func main() {
